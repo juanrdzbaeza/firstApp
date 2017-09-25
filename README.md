@@ -1,4 +1,4 @@
-![](https://130.206.120.230/remote.php/webdav/logos/portada_cabecera.png)
+![](https://github.com/juanrdzbaeza/firstApp/blob/master/images/portada_cabecera.png)
 
 
 ------------
@@ -8,5 +8,6 @@
 ------------
 ### Lineas de Productos Software
 
+> Primera actividad de la asignatura de Lineas de Productos Software. Se trata de una aplicacion que controla la entrda de dos campos de texto y muestra el resultado en una etiqueta.
 
-![](https://130.206.120.230/remote.php/webdav/logos/portada_pie.png)
+![](https://github.com/juanrdzbaeza/firstApp/blob/master/images/portada_pie.png)
